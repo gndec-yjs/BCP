@@ -10,6 +10,6 @@
 
 - [Masonry – stone masonry – Bond in masonry – laying brick and concrete hollow block masonry](pdf/4.pdf)
 
-- [flooring and damp proof courses](pdf/5.pdf)
+- [Flooring and Damp proof courses](pdf/5.pdf)
 
 - [Construction joints – movement and expansion joints,  Precast pavements](pdf/6.pdf)
