@@ -14,17 +14,17 @@
 
 - [Construction joints – movement and expansion joints,  Precast pavements](pdf/6.pdf)
 
-- [Building foundations, basements, temporary shed]
+- [Building foundations, basements, temporary shed](pdf/7.pptx)
 
 - [Centering and shuttering – slip forms – scaffoldings – de-shuttering forms](pdf/8.pptx)
 
 - [Fabrication and erection of steel trusses, Related BIS guidelines](pdf/9.pdf)
 
-- [Selection of equipment for earth work, earth moving operations]  
+- [Selection of equipment for earth work, earth moving operations](pdf/10.pdf)
 
 - [Types of earthwork equipment -tractors, motor graders, scrapers, front end waders, earth movers](pdf/11.pdf)
 
-- [Equipment for foundation and pile driving]
+- [Equipment for foundation and pile driving](pdf/12.pdf)
 
 - [Equipment for compaction, batching, mixing and concreting](pdf/13.pdf)
 
@@ -46,17 +46,19 @@
 
 - [Cable anchoring and grouting](pdf/21.pdf)
 
-- [Driving diaphragm walls](pdf/22.pdf)
+- [Driving diaphragm walls](pdf/22.pptx)
 
 - [Sheet piles](pdf/23.pptx)
 
-- [Off-shore platforms]
+- [Off-shore platforms](pdf/24.pdf)
 
-- [Shoring for deep cutting – well points, Dewatering and stand by Plant equipment for underground open excavation]
+- [Shoring for deep cutting – well points, Dewatering and stand by Plant equipment for underground open excavation](pdf/25.pptx)
 
-- [Super structure construction: Launching girders, bridge decks + Techniques for heavy decks]
+- [Super structure construction: Launching girders, bridge decks + Techniques for heavy decks](pdf/26_1.pdf)
 
-- [Special forms for shells]
+- [Super structure construction: Launching girders, bridge decks + Techniques for heavy decks](pdf/26_2.pdf)
+
+- [Special forms for shells](pdf/27.pdf)
 
 - [In-situ pre-stressing in high rise structures](pdf/28.pdf)
 
