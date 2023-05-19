@@ -22,7 +22,7 @@
 
 - [Selection of equipment for earth work, earth moving operations]  
 
-- [Types of earthwork equipment -tractors, motor graders, scrapers, front end waders, earth movers]
+- [Types of earthwork equipment -tractors, motor graders, scrapers, front end waders, earth movers](pdf/11.pdf)
 
 - [Equipment for foundation and pile driving]
 
